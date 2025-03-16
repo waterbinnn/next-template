@@ -1,14 +1,16 @@
 # next app router template
 
-dependency
+Dependency
 
 ```
-react: "^19.0.0",
-react-dom: "^19.0.0",
-next: "15.2.2"
-typescript: "^5",
+- react >= 19
+- react-dom >= 19
+- next >= 15
+- typescript >= 5
 
 lint
-
-
+- eslint
+- husky
+- commitlint
+- prettier
 ```
